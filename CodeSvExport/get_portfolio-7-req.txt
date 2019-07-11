@@ -1,0 +1,6 @@
+GET /portfolio HTTP/1.1
+Connection: keep-alive
+User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_211)
+Host: www.ca.com
+Accept-Encoding: gzip,deflate
+
